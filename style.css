@@ -138,14 +138,14 @@ body {
 .not-found.active .box {
     transform: translateY(0%);
     transition: transform 0.5s ease;
-    transition-delay: 0.3s;
+    transition-delay: 0.1s;
 }
 
 .weather-details.active .humidity,
 .weather-details.active .wind {
     transform: translateY(0%);
     transition: transform 0.7s ease;
-    transition-delay: 0.3s;
+    transition-delay: 0.1s;
 
 }
 .weather-box,
